@@ -1,0 +1,3 @@
+# Brainbean Apps Core
+-keep class com.brainbeanapps.core.** { *; }
+-dontwarn **$$Lambda$*
